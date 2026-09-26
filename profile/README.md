@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/avelock.app-3354E6?style=for-the-badge&logoColor=white)](https://avelock.app)
 [![Status](https://img.shields.io/badge/status-testnet_prototype-7C95FF?style=for-the-badge)](#status)
-[![License](https://img.shields.io/badge/license-BUSL_1.1-1C2230?style=for-the-badge)](#license)
+[![Open Source](https://img.shields.io/badge/open_source-GPL--3.0-1C2230?style=for-the-badge)](#open-source)
 
 </div>
 
@@ -68,9 +68,11 @@ One recovery phrase covers all of them. Keys never leave your phone.
 
 Found a security issue? Please write by email first, before sharing it publicly.
 
-## License
+## Open source
 
-Source-available under the **Business Source License 1.1**: you can read, audit and verify the code and use it for your own funds. Commercial use needs a license from Avelock. Each version becomes GPL-2.0-or-later four years after its release.
+Avelock is **open source** under the **GNU General Public License v3.0**. Anyone can read, audit, run and modify the code — including the contracts, the app and the co-signer — and verify that the deployed contracts match it. Modified versions that are shared must stay open under the same license.
+
+The code is being prepared for publication and will appear here soon.
 
 <div align="center">
 <sub>Built so that no one — including us — can hurry your money out.</sub>
