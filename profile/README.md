@@ -63,7 +63,7 @@ One recovery phrase covers all of them. Keys never leave your phone.
 ## Contact
 
 - **Website** — [avelock.app](https://avelock.app)
-- **Email** — [avelockwallet@gmail.com](mailto:avelockwallet@gmail.com)
+- **Email** — [gleb@avelock.app](mailto:gleb@avelock.app)
 - **Telegram** — [@hokvo](https://t.me/hokvo)
 
 Found a security issue? Please write by email first, before sharing it publicly.
